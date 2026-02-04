@@ -1,0 +1,13 @@
+.bg-primary {
+  @apply bg-blue-500;
+}
+
+.text-primary {
+  @apply text-white;
+}
+
+.animate-bounce {
+  @apply animate-bounce;
+}
+
+/* Add additional styles and animations as needed */
